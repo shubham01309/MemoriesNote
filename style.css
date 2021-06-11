@@ -78,4 +78,9 @@ section .container h2{
     background-color: rgb(183, 0, 255);
     color: white;
     border: none;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+.noteBtn:hover{
+    background-color: brown;
 }
